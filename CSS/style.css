@@ -129,6 +129,10 @@ header {
   background-color: #9e2646;
 }
 
+.hidden {
+  display: none;
+}
+
 @media screen and (min-width: 768px) {
   .menu-list {
     display: flex;
