@@ -1,0 +1,99 @@
+<section id="interest" class="section-dark">
+    <div class="container interest-wrapper">
+        <div class="interest-card">
+            <!-- ikona -->
+            <div class="interst-icon-circle">
+                <svg class="interest-icon" width="100px" stroke-width="1.5" height="100px" viewBox="0 0 24 24"
+                    fill="none" xmlns="http://www.w3.org/2000/svg" color="#fff">
+                    <path d="M18.5 15L5.5 15" stroke="#fff" stroke-width="1.5" stroke-linejoin="round"></path>
+                    <path d="M16 4L8 4" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                    </path>
+                    <path
+                        d="M9 4.5L9 10.2602C9 10.7376 8.82922 11.1992 8.51851 11.5617L3.48149 17.4383C3.17078 17.8008 3 18.2624 3 18.7398V19C3 20.1046 3.89543 21 5 21L19 21C20.1046 21 21 20.1046 21 19V18.7398C21 18.2624 20.8292 17.8008 20.5185 17.4383L15.4815 11.5617C15.1708 11.1992 15 10.7376 15 10.2602L15 4.5"
+                        stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M12 9.01L12.01 8.99889" stroke="#fff" stroke-width="1.5" stroke-linecap="round"
+                        stroke-linejoin="round"></path>
+                    <path d="M11 2.01L11.01 1.99889" stroke="#fff" stroke-width="1.5" stroke-linecap="round"
+                        stroke-linejoin="round"></path>
+                </svg>
+            </div>
+            <!-- tytul -->
+            <h3>Odkrycia</h3>
+            <!-- tekst -->
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur
+                delectus mollitia eaque fugiat earum at? Tempore asperiores non nemo
+                voluptatibus, totam molestiae sapiente odit. Tempore, cumque. Sequi
+                tenetur dolores dolor!
+            </p>
+        </div>
+        <div class="interest-card">
+            <!-- ikona -->
+            <div class="interst-icon-circle">
+                <svg class="interest-icon" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960"
+                    width="24" fill="#fff" ;>
+                    <path
+                        d="M560-32v-80q117 0 198.5-81.5T840-392h80q0 75-28.5 140.5t-77 114q-48.5 48.5-114 77T560-32Zm0-160v-80q50 0 85-35t35-85h80q0 83-58.5 141.5T560-192ZM222-57q-15 0-30-6t-27-17L23-222q-11-12-17-27t-6-30q0-16 6-30.5T23-335l127-127q23-23 57-23.5t57 22.5l50 50 28-28-50-50q-23-23-23-56t23-56l57-57q23-23 56.5-23t56.5 23l50 50 28-28-50-50q-23-23-23-56.5t23-56.5l127-127q12-12 27-18t30-6q15 0 29.5 6t26.5 18l142 142q12 11 17.5 25.5T895-730q0 15-5.5 30T872-673L745-546q-23 23-56.5 23T632-546l-50-50-28 28 50 50q23 23 22.5 56.5T603-405l-56 56q-23 23-56.5 23T434-349l-50-50-28 28 50 50q23 23 22.5 57T405-207L278-80q-11 11-25.5 17T222-57Zm0-79 42-42-142-142-42 42 142 142Zm85-85 42-42-142-142-42 42 142 142Zm184-184 56-56-142-142-56 56 142 142Zm198-198 42-42-142-142-42 42 142 142Zm85-85 42-42-142-142-42 42 142 142ZM448-504Z" />
+                </svg>
+            </div>
+            <!-- tytul -->
+            <h3>Kosmos</h3>
+            <!-- tekst -->
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur
+                delectus mollitia eaque fugiat earum at? Tempore asperiores non nemo
+                voluptatibus, totam molestiae sapiente odit. Tempore, cumque. Sequi
+                tenetur dolores dolor!
+            </p>
+        </div>
+        <div class="interest-card">
+            <!-- ikona -->
+            <div class="interst-icon-circle">
+                <svg class="interest-icon" width="100px" height="100px" stroke-width="1.5" viewBox="0 0 24 24"
+                    fill="none" xmlns="http://www.w3.org/2000/svg" color="#fff">
+                    <path
+                        d="M11.4563 2.66509C11.6717 2.2034 12.3283 2.2034 12.5437 2.66509L15.4077 8.80229C15.4673 8.93 15.57 9.03266 15.6977 9.09227L21.8349 11.9563C22.2966 12.1717 22.2966 12.8283 21.8349 13.0437L15.6977 15.9077C15.57 15.9673 15.4673 16.07 15.4077 16.1977L12.5437 22.3349C12.3283 22.7966 11.6717 22.7966 11.4563 22.3349L8.59227 16.1977C8.53266 16.07 8.43 15.9673 8.30229 15.9077L2.16509 13.0437C1.7034 12.8283 1.7034 12.1717 2.16509 11.9563L8.30229 9.09227C8.43 9.03266 8.53266 8.93 8.59227 8.80229L11.4563 2.66509Z"
+                        stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg>
+            </div>
+            <!-- tytul -->
+            <h3>Astronomia</h3>
+            <!-- tekst -->
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur
+                delectus mollitia eaque fugiat earum at? Tempore asperiores non nemo
+                voluptatibus, totam molestiae sapiente odit. Tempore, cumque. Sequi
+                tenetur dolores dolor!
+            </p>
+        </div>
+        <div class="interest-card">
+            <!-- ikona -->
+            <div class="interst-icon-circle">
+                <svg class="interest-icon" width="100px" height="100px" viewBox="0 0 24 24" stroke-width="1.5"
+                    fill="none" xmlns="http://www.w3.org/2000/svg" color="#fff">
+                    <path
+                        d="M16.0614 10.4037L14 17L10 17L7.93865 10.4037C7.35085 8.52273 7.72417 6.47307 8.93738 4.92015L11.5272 1.6052C11.7674 1.29772 12.2326 1.29772 12.4728 1.6052L15.0626 4.92015C16.2758 6.47307 16.6491 8.52273 16.0614 10.4037Z"
+                        stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M10 20C10 22 12 23 12 23C12 23 14 22 14 20" stroke="#fff" stroke-width="1.5"
+                        stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M8.5 12.5C5 15 7 19 7 19L10 17" stroke="#fff" stroke-width="1.5" stroke-linecap="round"
+                        stroke-linejoin="round"></path>
+                    <path d="M15.9312 12.5C19.4312 15 17.4312 19 17.4312 19L14.4312 17" stroke="#fff" stroke-width="1.5"
+                        stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path
+                        d="M12 11C10.8954 11 10 10.1046 10 9C10 7.89543 10.8954 7 12 7C13.1046 7 14 7.89543 14 9C14 10.1046 13.1046 11 12 11Z"
+                        stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg>
+            </div>
+            <!-- tytul -->
+            <h3>Fizyka</h3>
+            <!-- tekst -->
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur
+                delectus mollitia eaque fugiat earum at? Tempore asperiores non nemo
+                voluptatibus, totam molestiae sapiente odit. Tempore, cumque. Sequi
+                tenetur dolores dolor!
+            </p>
+        </div>
+    </div>
+</section>
