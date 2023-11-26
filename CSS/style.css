@@ -424,6 +424,10 @@ textarea {
   margin-bottom: 30px;
 }
 
+.footer-text p {
+  margin-bottom: 12px;
+}
+
 .footer-bootom-wrapper {
   display: flex;
   justify-content: space-between;
